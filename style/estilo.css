@@ -1,0 +1,46 @@
+body {
+    background-color: #4F4F4F;
+}
+
+.truncate {
+    padding: 30px;
+    color: white;
+    text-align: center;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    padding: 20px 0 0 0;
+    color: white;
+    text-align: center;
+}
+
+.inicio
+{
+    padding-top: 0px;
+}
+
+#sobre {
+    color: white;
+    background-color: #4a148c;
+
+}
+
+#textSobre
+{
+    padding: 0% 0 30px 62%;
+    position: absolute;
+    top: 1100px;
+}
+
+#imgMeio
+{
+    padding-bottom: 50px;
+}
+
+
+
